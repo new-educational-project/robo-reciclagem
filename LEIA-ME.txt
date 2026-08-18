@@ -1,0 +1,30 @@
+ROBÔ PROF. LÉIA & A RECICLAGEM — VERSÃO PREMIUM
+
+Arquivos incluídos:
+- index.html
+- style.css
+- script.js
+
+Imagens JPG que devem ser colocadas na mesma pasta / raiz do GitHub:
+- robo1.jpg
+- robo2.jpg
+- robo3.jpg
+- garrafa.jpg
+- papelão.jpg
+- garrafapet.jpg
+- pedra1.jpg
+- pedra2.jpg
+- agua1.jpg
+- agua2.jpg
+- recicle.jpg
+
+Destaques da versão premium:
+- Cartão pedagógico da missão com fundo amarelo-claro.
+- Ícones maiores para Missão e Dica.
+- Texto preto, centralizado e mais elegante.
+- Três fases da Prof. Léia.
+- Imagens clicáveis em tela cheia.
+- Quatro setas azul-marinho.
+- Botão verde COLETAR / USAR.
+- Quiz obrigatório ao final de cada fase.
+- 9 questões no total.
